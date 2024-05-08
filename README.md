@@ -1,5 +1,5 @@
 ### Hi there 👋 
-MY NAME IS IHASMYN26
+MY NAME IS IHASMYN
 <!--
 **IHASMYN26/IHASMYN26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
